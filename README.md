@@ -1,4 +1,3 @@
-<br>
 <div align="center">
 <a href="https://patpiwo.dev/" target="_blank" title="PatPiwo.dev">
 <img src="https://github.com/ppiwo/ppiwo/blob/main/logo-no-text.png?raw=true" alt="HTML5 Logo" width="200" height="200"/>
