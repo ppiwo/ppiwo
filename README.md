@@ -4,11 +4,11 @@
 </a>
 </div>
 
-## Hi there <img src="https://github.com/ppiwo/ppiwo/blob/main/wave.gif?raw=true" width="30px">, I'm Patrick Piwowarczyk!
+## Hello, world <img src="https://github.com/ppiwo/ppiwo/blob/main/wave.gif?raw=true" width="30px">, I'm Patrick Piwowarczyk!
 
   
 
-A Software Engineer specializing in JavaScript! My professional experience with technologies are listed in the toolbox below 🚀
+A Software Engineer specializing in JavaScript! My professional experience with technologies is listed in the toolbox below 🚀
 
   
 ## 🧰 **Toolbox**
