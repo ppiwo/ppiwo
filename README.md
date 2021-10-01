@@ -5,7 +5,7 @@
 </a>
 </div>
 
-## Hello, world <img src="https://github.com/ppiwo/ppiwo/blob/main/wave.gif?raw=true" width="30px">, I'm Patrick Piwowarczyk!
+## Hello world <img src="https://github.com/ppiwo/ppiwo/blob/main/wave.gif?raw=true" width="30px">, I'm Patrick Piwowarczyk!
 
   
 
